@@ -10,3 +10,5 @@ DFS, stands for Depth First Search. DFS uses Stack to find the shortest path
 BFS, stands for Breadth First Search. BFS uses Queue to find the shortest path
 
 Both BFS and DFS cases visit all the nodes without significant extra overhead. If the search can be aborted when a matching element is found, BFS should typically be faster if the searched element is typically higher up in the search tree because it goes level by level. DFS might be faster if the searched element is typically relatively deep and finding one of many is sufficient.
+
+Google Slides: https://docs.google.com/presentation/d/1Z_G6YRf04n9V4aVkOVv-RpJ6o7N0gn3Xzs0_yD18kmU/edit#slide=id.p 
